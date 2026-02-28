@@ -1,163 +1,188 @@
-<!-- ====================================== -->
-<!-- Premium Animated Banner -->
-<!-- ====================================== -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2C5364&height=200&section=header&text=Sohanur%20Rahman%20Sohan&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Robotics%20%7C%20Full-Stack%20Engineer&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0e7490,100:a855f7&height=220&section=header&text=Sohan%20Fardin&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=ETE%20Student%20%7C%20AI%20Builder%20%7C%20Robotics%20Engineer&descAlignY=72&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=800&lines=Electronics+%26+Telecommunication+Engineering+Student;AI+%7C+Machine+Learning+%7C+Embedded+Systems;Founder+%26+Product+Architect;Top+25+Finalist+-+bdapps+Innovation+Summit+2025;CS50x+-+Harvard+University"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=850&lines=Electronics+%26+Telecommunication+Engineering+%40+RUET;Building+AI-Powered+Systems+%26+Intelligent+Robots;Founder+of+KrishiOS+%26+BoikhataMM;Top+25+Finalist+%E2%80%94+bdapps+Innovation+Summit+2025;Harvard+CS50x+Certified;Open+to+Research+%26+Internship+Opportunities+%F0%9F%8C%8F"/>
+</p>
+
+<p align="center">
+  <a href="https://sohancreation.github.io/mysitesohan/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-SohanOS-22d3ee?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sohan041">
+    <img src="https://img.shields.io/badge/LinkedIn-sohan041-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sohanfardin546@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sohanfardin546@gmail.com-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://web.facebook.com/sohanwho">
+    <img src="https://img.shields.io/badge/Facebook-sohanwho-1877F2?style=for-the-badge&logo=facebook" />
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 B.Sc. in Electronics & Telecommunication Engineering  
-🏫 Rajshahi University of Engineering & Technology (RUET)  
-📜 CS50x: Introduction to Computer Science – Harvard University  
+```yaml
+Name     : Sohan Fardin
+Role     : ETE Student & Innovator
+Varsity  : Rajshahi University of Engineering & Technology (RUET)
+Roll     : 2204041
+Location : Bangladesh (UTC+6)
+Focus    : AI · Robotics · Embedded Systems · IoT · Web Development
+Mindset  : "Build technology that bridges gaps, empowers minds,
+            and transforms everyday life into something extraordinary."
+```
 
-I design **AI-integrated systems, robotics platforms, and scalable web applications** focused on real-world impact.
+I design and build **AI-integrated systems, robotics platforms, and scalable web applications** focused on real-world social impact. From autonomous robots to EdTech platforms — I solve problems that matter.
 
 Currently:
-- 🔬 Exploring AI, ML & Embedded Intelligence  
-- 🚀 Building scalable AI-driven platforms  
-- 🌏 Seeking Research & International Internship Opportunities  
+- 🔬 Researching AI, ML & Embedded Intelligence integration
+- 🚀 Building **KrishiOS** & **BoikhataMM** as production SaaS products
+- 🌏 Actively seeking **Research Collaborations & International Internships**
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements & Recognition
 
-🥇 Top 25 Finalist – bdapps Innovation Summit 2025  
-🥇 1st Place – Annual Project Fair, ETE Department (RUET)  
-🥇 Winner – National High School Programming Contest (2016, 2017)  
-🥇 Winner – Regional Mathematics Olympiad (2018)  
-
----
-
-# 💼 Professional Experience
-
-## 🧠 AI & Software Development Freelancer (March 2024 – Present)
-
-• Developed AI-powered web applications using OpenAI & Gemini APIs  
-• Integrated LLM-based decision systems for automation & analytics  
-• Built IoT + AI integrated smart decision systems  
+| 🏅 Award | 🗓️ Year |
+|---|---|
+| 🥇 **National High School Programming Contest** — Winner | 2016 & 2017 |
+| 🧮 **Regional Mathematics Olympiad** — Runners-Up | 2018 |
+| 🚀 **bdapps Innovation Summit** — Top 25 Teams (Project: EduDial) | 2025 |
+| 🏫 **ETE Department Project Fair, RUET** — Top Project Award (Spytron-X) | 2025 |
+| 📜 **Harvard CS50x** — Certified via edX | 2024 |
 
 ---
 
-## 🚀 Founder & Product Architect – Boikhata MM (Dec 2025 – Present)
+## 🚀 Featured Projects
 
-Architecting a multi-service AI-driven student growth ecosystem:
+### 🎓 [BoikhataMM](https://sohancreation.github.io/boikhatamm/) — AI Academic & Career Platform
+> Full-stack AI-driven education and career ecosystem guiding students from school to university, research, and professional careers.
 
-• AI-powered scholarship guidance  
-• Adaptive mock interview engine  
-• Career-mapping & intelligent assessment frameworks  
-• AI-based research & project mentorship modules  
-• SaaS scalability & monetization planning  
+- 🤖 AI Study Planner, Quiz Generator & Career Mentor
+- 🎤 Mock Interview Simulator & Research Mentor
+- ☁️ Built with React 18 · TypeScript · Vite 5 · Supabase · GitHub Pages
 
-🔗 Live: https://sohancreation.github.io/boikhatamm/  
-🔗 GitHub: https://github.com/sohancreation/boikhatamm  
-
----
-
-# 🚀 Major Projects
-
-## 🤖 Spytron-X – AI Powered Modular Mobile Robot
-Modular robotics platform integrating embedded control, sensors & AI-based motion logic for autonomous experimentation.
-
-📄 Project Report:  
-https://sohanfardin.github.io/myselfsohan/project%20report.pdf  
-🎥 Demo Videos:  
-https://drive.google.com/drive/folders/1F_zyj1jl3aPfloKLeH-xblqWD362vxqi  
+[![Live](https://img.shields.io/badge/🌐%20Live-sohancreation.github.io/boikhatamm-22d3ee?style=flat-square)](https://sohancreation.github.io/boikhatamm/)
+[![GitHub](https://img.shields.io/badge/GitHub-boikhatamm-181717?style=flat-square&logo=github)](https://github.com/sohancreation/boikhatamm)
 
 ---
 
-## 👁 AI-Based Eye-Controlled Assistive Wheelchair
-Embedded mobility system using eye-tracking signal processing & ESP32 control architecture with real-time navigation and speech feedback.
+### 🌾 [KrishiOS](https://sohancreation.github.io/krishios/auth) — AI Smart Agriculture Platform
+> Farmer-focused intelligent web app that digitizes agricultural management through expense tracking, production monitoring, and automated profit calculation.
 
- 
+- 📊 Real-time financial insights & IoT-based farm monitoring
+- 🤖 AI-driven recommendations for crop planning & productivity
+- ☁️ Built with React 18 · TypeScript · Tailwind CSS · Supabase · Recharts
 
----
-
-## 🌾 KrishiOS – Intelligent Agriculture Platform
-AI-integrated agriculture analytics WebApp for:
-
-• Expense tracking  
-• Yield analysis  
-• Profit optimization  
-• IoT extensibility  
-
-🌐 Live: https://sohancreation.github.io/krishios/auth  
-💻 GitHub: https://github.com/sohancretion/krishios  
+[![Live](https://img.shields.io/badge/🌐%20Live-sohancreation.github.io/krishios-22d3ee?style=flat-square)](https://sohancreation.github.io/krishios/auth)
+[![GitHub](https://img.shields.io/badge/GitHub-krishios-181717?style=flat-square&logo=github)](https://github.com/sohancreation/krishios)
 
 ---
 
-# 🔥 Tech Stack
+### 🤖 Spytron-X — AI Powered Modular Mobile Robot
+> ESP32-powered multi-mission intelligent robotic platform for surveillance, hazard detection, autonomous navigation, and tactical deployment.
 
-### Programming
-Python | C++ | Embedded C | DSA  
-
-### AI & ML
-Machine Learning  
-Deep Learning  
-Data Analytics  
-AI Automation  
-
-### Embedded Systems
-Arduino | ESP32 | Raspberry Pi  
-Sensor Integration | Servo Control  
-
-### Web & Systems
-HTML5 | CSS3 | JavaScript  
-ReactJS | NodeJS | ExpressJS  
-MongoDB | MySQL | Supabase  
-
-### Tools
-VS Code | Figma (UI Prototyping)  
+- 🔥 Fire & landmine detection · Robotic arm · Autonomous obstacle avoidance
+- 🕷️ Deploys a secondary **Spider Spy Robot** for confined-space exploration
+- 🎮 WiFi & Voice multi-platform remote control
 
 ---
 
-# 📊 GitHub Analytics
+### 👁️ Eye-Controlled Assistive System
+> Advanced assistive technology that allows people with severe physical disabilities to control home appliances and communicate using only eye movements.
+
+- 👁️ Real-time eye-tracking with Python & OpenCV
+- 🔊 Text-to-Speech (TTS) for communication
+- 🏠 ESP32/Arduino-based smart home IoT control
+
+---
+
+### 📞 EduDial — IVR-Based Offline Education Platform
+> Interactive voice response (IVR) platform delivering structured education to students without smartphones or internet access.
+
+- 📱 Works on any basic mobile phone via keypad navigation
+- 🎓 Curriculum-aligned quizzes, lessons & performance feedback
+- 🏆 **Top 25 — bdapps Innovation Summit 2025**
+
+---
+
+### 🕷️ Spider Spy Robot — Custom PCB Quadruped Surveillance Bot
+> Compact 8-servo quadruped reconnaissance robot with NodeMCU (ESP8266) and a custom-designed PCB for power distribution and servo control.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="180"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nextjs,nodejs,express,html,css,tailwind,mongodb,supabase,arduino,raspberrypi,git,github,figma,vscode&perline=10" />
+</p>
+
+```
+Languages      →  Python · C++ · Embedded C · JavaScript · TypeScript
+AI / ML        →  Machine Learning · Deep Learning · OpenAI API · Gemini API
+Embedded       →  Arduino · ESP32 · ESP8266 · Raspberry Pi · PCB Design
+Frontend       →  React 18 · Next.js · Tailwind CSS · Three.js · Vite
+Backend        →  Node.js · Express.js · Flask
+Database       →  Supabase · MongoDB · MySQL · SQLite
+Tools          →  Git · GitHub Actions · Figma · VS Code
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohancreation&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohancreation&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohancreation&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 💼 Professional Experience
+
+**🧠 AI & Software Development Freelancer** *(2024 – Present)*
+- Developed AI-powered web applications using OpenAI & Gemini APIs
+- Integrated LLM-based decision systems for automation & analytics
+- Built custom dashboards, IoT+AI systems, and voice-based AI solutions
+
+**🌾 Founder — KrishiOS** *(2025 – Present)*
+- Designed AI-powered agriculture management platform for farmers
+- Integrated production tracking, cost analysis & automated profit calculation
+- Planned IoT-based farm monitoring and AI-driven insights
+
+**🎓 Founder & Product Developer — BoikhataMM** *(2025 – Present)*
+- Conceptualized and built a full-stack AI academic & career ecosystem
+- Leading product strategy, UX design & user acquisition planning
+
+---
+
+## 🎯 Research & Career Interests
+
+```
+🤖  Artificial Intelligence & Machine Learning
+🦾  Robotics & Autonomous Systems
+♿  Assistive Technology & Accessibility
+🎓  Education Technology (EdTech)
+🌾  AgriTech & Smart Farming
+🌍  Human-Centered AI Systems
+📡  Embedded Systems & IoT
+```
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:0e7490,100:0a0a0a&height=130&section=footer"/>
 </p>
 
----
-
-# 🎯 Research & Career Interests
-
-Artificial Intelligence  
-Robotics & Autonomous Systems  
-Assistive Technology  
-Education Technology  
-AgriTech Intelligence  
-Human-Centered AI Systems  
-
----
-
-# 📬 Contact
-
-📧 sohanfardin546@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sohan041  
-🌐 Portfolio: https://sohancreation.github.io/mysitesohan/  
-
----
-
 <p align="center">
-⚡ Building Intelligent Systems for Global Impact
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:000000&height=120&section=footer"/>
+  <b>⚡ Building Intelligent Systems for Global Impact</b><br/>
+  <sub>Sohan Fardin · RUET · Bangladesh · 2025</sub>
 </p>
