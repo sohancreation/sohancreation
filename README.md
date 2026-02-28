@@ -56,8 +56,8 @@ Architecting a multi-service AI-driven student growth ecosystem:
 • AI-based research & project mentorship modules  
 • SaaS scalability & monetization planning  
 
-🔗 Live: https://sohanfardin.github.io/BoikhataMM/  
-🔗 GitHub: https://github.com/sohanfardin/BoikhataMM  
+🔗 Live: https://sohancreation.github.io/boikhatamm/  
+🔗 GitHub: https://github.com/sohancreation/boikhatamm  
 
 ---
 
@@ -68,14 +68,15 @@ Modular robotics platform integrating embedded control, sensors & AI-based motio
 
 📄 Project Report:  
 https://sohanfardin.github.io/myselfsohan/project%20report.pdf  
+🎥 Demo Videos:  
+https://drive.google.com/drive/folders/1F_zyj1jl3aPfloKLeH-xblqWD362vxqi  
 
 ---
 
 ## 👁 AI-Based Eye-Controlled Assistive Wheelchair
 Embedded mobility system using eye-tracking signal processing & ESP32 control architecture with real-time navigation and speech feedback.
 
-🎥 Demo Videos:  
-https://drive.google.com/drive/folders/1F_zyj1jl3aPfloKLeH-xblqWD362vxqi  
+ 
 
 ---
 
@@ -87,8 +88,8 @@ AI-integrated agriculture analytics WebApp for:
 • Profit optimization  
 • IoT extensibility  
 
-🌐 Live: https://sohanfardin.github.io/krishios/auth  
-💻 GitHub: https://github.com/sohanfardin/krishios  
+🌐 Live: https://sohancreation.github.io/krishios/auth  
+💻 GitHub: https://github.com/sohancretion/krishios  
 
 ---
 
@@ -149,7 +150,7 @@ Human-Centered AI Systems
 
 📧 sohanfardin546@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/sohan041  
-🌐 Portfolio: https://sohanfardin.github.io/myselfsohan/  
+🌐 Portfolio: https://sohancreation.github.io/mysitesohan/  
 
 ---
 
