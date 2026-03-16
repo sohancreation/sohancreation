@@ -59,6 +59,29 @@ Currently:
 
 ## 🚀 Featured Projects
 
+### 🤖 [SohanCore](https://github.com/sohancreation/SohanCore) — Advanced Windows AI Assistant Platform
+> A powerful Windows-first AI assistant combining a Telegram bot interface, desktop/browser automation, and multi-provider LLM routing.
+
+- 📱 Telegram remote control & seamless desktop automation (web/apps/files)
+- 🧠 Multi-LLM (OpenAI, Gemini, Ollama) with smart task memory & intent orchestration
+- 🛡️ Built-in safety guardrails & secure execution environment
+- ☁️ Built with Python 3.11/3.12 · Playwright · Tesseract OCR
+
+[![GitHub](https://img.shields.io/badge/GitHub-SohanCore-181717?style=flat-square&logo=github)](https://github.com/sohancreation/SohanCore)
+
+---
+
+### 🩸 [BloodLink](https://github.com/sohancreation/bloodlink) — Smart Blood Donation Platform
+> A modern web application designed to seamlessly connect blood donors with recipients, featuring robust user authentication and real-time connectivity.
+
+- 🔐 Secure Auth Flow (Sign in / Sign up) for donors and recipients
+- 🏥 Intuitive discovery and communication tools
+- ☁️ Built with React · TypeScript · Vite · Tailwind CSS
+
+[![GitHub](https://img.shields.io/badge/GitHub-BloodLink-181717?style=flat-square&logo=github)](https://github.com/sohancreation/bloodlink)
+
+---
+
 ### 🎓 [BoikhataMM](https://sohancreation.github.io/boikhatamm/) — AI Academic & Career Platform
 > Full-stack AI-driven education and career ecosystem guiding students from school to university, research, and professional careers.
 
